@@ -1,6 +1,8 @@
 // Copyright 2021 NNTU-CS
+#include <stdlib.h>
 #include <string>
 #include <map>
+#include <iostream>
 #include "tstack.h"
 
 void append(char c, std::string *str) {
